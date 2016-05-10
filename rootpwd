@@ -1,0 +1,5 @@
+#!/bin/bash
+passwd root<<EOF
+88888888
+88888888
+EOF
